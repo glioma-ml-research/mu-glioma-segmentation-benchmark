@@ -14,6 +14,20 @@ selection and a held-out outer fold for evaluation.
 This is a technical internal-validation study. It is not a diagnostic-accuracy
 study and does not establish clinical utility or external generalizability.
 
+## Research Team
+
+This research project was collaboratively conducted by:
+
+- **[Atilla Mustafa](https://github.com/atilla-m)**
+- **[Elkhan Aghakishiyev](https://github.com/agakisiyev25)**
+- **[Jamila Jabrayilli](https://github.com/Jamajab)**
+
+**Contribution Note:** The project's code and research materials were
+consolidated and uploaded to GitHub by Atilla. As a result, the commit
+history primarily reflects a single GitHub account rather than the
+individual contributions of all three researchers. This project was
+developed collaboratively by the research team listed above.
+
 ## Repository contents
 
 | Directory | Contents |
